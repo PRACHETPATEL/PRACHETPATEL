@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PRACHETPATEL
-- 👀 I’m interested in ...DBMS
-- 🌱 I’m currently learning ...sql,C++(OOP concepts included),DSA,DBMS
+- 👀 I’m interested in ...Software Development
+- 🌱 I’m currently learning ...sql,C++(OOP concepts included),DSA,DBMS,...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...prachet.edu@gmail.com
 
