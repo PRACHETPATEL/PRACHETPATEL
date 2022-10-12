@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PRACHETPATEL
-- 👀 I’m interested in ...Software Development
+- 👀 Preparing to be ...Software Developer
 - 🌱 I’m currently learning ...sql,C++(OOP concepts included),DSA,DBMS,...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...prachet.edu@gmail.com
