@@ -2,7 +2,7 @@
 - 👀 On my way to be a...Software Developer
 - 👨‍💻 Had experience with..., C++, DSA, DBMS(mySQL and MongoDB), Java(Core), HTML, CSS, Javascript,..
 - Currently learning Web Application Development using Java Full-Stack.
-- Webapp developed using Java Full-Stack:
+- Webapp developed using Java Full-Stack: Wait 1-2 mins until site loads as it is hosted on free server
   1) https://coursefinder5-mailextra253.b4a.run/LearnToCode-1.0-SNAPSHOT/
   2) https://specialstore.azurewebsites.net
 - 💞️ I’m looking to collaborate on ...
