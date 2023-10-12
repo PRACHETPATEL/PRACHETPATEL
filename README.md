@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PRACHETPATEL
 - 👀 On my way to be a...Software Developer
 - 👨‍💻 Had experience with...,
-  1) Languages like C++, DSA, DBMS(mySQL and MongoDB), Java(Core), HTML, CSS and Javascript
+  1) Languages like C, C++, DSA, DBMS(mySQL and MongoDB), Java(Core), Python, HTML, CSS and Javascript
   2) Frameworks & libraries like Spring, Hibernate, Pandas, Numpy, Scipy, Beautifulsoup and Matplotlib
 - Currently learning Web Application Development using Java Full-Stack.
 - Webapp developed using Java Full-Stack: Wait 1-2 mins until site loads as it is hosted on free server
