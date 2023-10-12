@@ -4,7 +4,7 @@
 - Currently learning Web Application Development using Java Full-Stack.
 - Webapp developed using Java Full-Stack:
   1) https://coursefinder5-mailextra253.b4a.run/LearnToCode-1.0-SNAPSHOT/
-  2) specialstore.azurewebsites.net
+  2) https://specialstore.azurewebsites.net
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...prachet.edu@gmail.com
 
