@@ -6,7 +6,7 @@
 - Currently learning Web Application Development using Java Full-Stack.
 - Webapp developed using Java Full-Stack: Wait 1-2 mins until site loads as it is hosted on free server
   1) https://coursefinder5-mailextra253.b4a.run/LearnToCode-1.0-SNAPSHOT/
-  2) https://specialstore.tech
+  2) specialstore.tech
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...prachet.edu@gmail.com
 
